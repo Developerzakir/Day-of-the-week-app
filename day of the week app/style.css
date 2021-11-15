@@ -1,0 +1,43 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 50px;
+	background: #fff;
+}
+
+
+#container{
+	width: 640px;
+	height: 330px;
+	background-color: #00ffff;
+	margin: auto;
+	border-radius: 30px;
+}
+
+h1{
+	font-size: 45px;
+	font-weight: 600;
+	color: #fff;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	margin-left: 160px;
+	background: #0000ff;
+	padding: 10px;
+	border-radius: 6px;
+	display: inline-block;
+}
+
+#weekday{
+	font-size: 40px;
+	color: #dd5800;
+	font-weight: 800;
+	margin-left: 110px;
+
+}
+
+
+#phrase{
+	font-size: 30px;
+	color: #0000ff;
+	font-weight: 800;
+	margin-left: 170px;
+}
